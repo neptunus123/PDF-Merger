@@ -8,9 +8,9 @@ birlestirici = PdfMerger(strict=False)
 
 # append pdf one by one with their path names. (Do not forget to include the path names such as: birlestirici.append('c:/user/user/pdf1.pdf, 'rb')
 birlestirici.append('pdf1.pdf', 'rb')
-birlestirici.append('pdf1.pdf', 'rb')
-birlestirici.append('pdf1.pdf', 'rb')
-birlestirici.append('pdf1.pdf', 'rb')
+birlestirici.append('pdf2.pdf', 'rb')
+birlestirici.append('pdf3.pdf', 'rb')
+birlestirici.append('pdf4.pdf', 'rb')
 
 # writing combined pdf to output pdf file
 # with open('Merged.pdf', 'wb') as fout:
