@@ -14,7 +14,7 @@ INSTALLATION:
    pip3 install pydf2
    
 LICENSE:
-Use it for educational, personal or commercial uses. No limitation.
+Use it for educational, personal or commercial uses. No limitations.
 
 For any issues or requests you can open an issue record from GitHub.
 
